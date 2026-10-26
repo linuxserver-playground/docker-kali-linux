@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM ghcr.io/linuxserver/baseimage-selkies:kali
+FROM ghcr.io/linuxserver-playground/baseimage-selkies:kali
 
 # set version label
 ARG BUILD_DATE
